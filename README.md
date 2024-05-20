@@ -39,7 +39,7 @@ Client1 CPU connected to domain created in Server2019 <br/>
 <br />
 <a href="https://imgur.com/HO6e4eK"><img src="https://i.imgur.com/HO6e4eK.png" title="source: imgur.com" /></a></a><br />
   <br />
-   Once Verified return to user and right click. This will give you access to a host of actions such as disabling account for users no longer with company or that have been compromised, resetting passwords for Help Desk calls or adding users to specific groups when onboarding, or any number of circumstances involoved within your company. <br />
+   Once Verified return to user and right click. This will give you access to a host of actions such as disabling account for users no longer with company or that have been compromised, resetting passwords for Help Desk calls or adding users to specific groups when onboarding, or any number of circumstances involved within your company. <br />
 <br />
 <a href="https://imgur.com/lX0bg32"><img src="https://i.imgur.com/lX0bg32.png" title="source: imgur.com" /></a></a><br />
   <br />
