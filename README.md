@@ -1,6 +1,8 @@
+<h1>Active Directory Basics</h1>
+
 <p>
-  Active Directory basics, I created A VM enviornment with Win10 and WinServer 19 to provide this short tutorial on AD finding employee(s) by name.  <br />
-    The 1st 2 slides show that the domain that i created has been joined by the client cpu.
+I created A VM enviornment with Win10 and WinServer 19 to provide this short tutorial on Active Directory finding employee(s) by name.   <br />
+   
 </p>
 <br />
 <br />
