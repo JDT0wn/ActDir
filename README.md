@@ -35,7 +35,7 @@ Client1 CPU connected to domain created in Server2019 <br/>
 <a href="https://imgur.com/bJFNMRa"><img src="https://i.imgur.com/bJFNMRa.png" title="source: imgur.com" /></a></a><br />
   <br />
   <br />
-  Verify all information (OU, Office, USERID, or any credential used for verification!!) <br />
+  Verify all information (OU, Office, USERID, or any credential used for verification) this will help with duplication errors!! <br />
 <br />
 <a href="https://imgur.com/HO6e4eK"><img src="https://i.imgur.com/HO6e4eK.png" title="source: imgur.com" /></a></a><br />
   <br />
