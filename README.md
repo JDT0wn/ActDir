@@ -3,6 +3,7 @@
 <p>
 I created A VM enviornment with Win10 and WinServer 19 to provide this short tutorial on Active Directory finding employee(s) by name. First and foremost to start we will need to have Server manager running on our Windows Server desktop  
 From there we will need to select the tools dropdown menu on the right side and click active directory users and computers. My 1st 2 Slides show that I have my VM machines connected thru the DHCP server setup designated Mydomain.com, and the Windows 10 enviornment designated as Client1.
+
    
 </p>
 <br />
