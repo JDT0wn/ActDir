@@ -1,4 +1,4 @@
-<h1>Active Directory Basics Vid</h1>
+<h1>Active Directory Basics</h1>
 
 <p>
 Active Directory Deployment and User Management Lab
