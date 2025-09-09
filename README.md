@@ -19,6 +19,11 @@ In this lab, I deployed a Windows 10 client system in VirtualBox and connected i
 
 
 
+
+
+
+
+<p>
 Key Tasks and Skills Demonstrated:
 
 Deployed and configured a Windows Server 2019 instance as a domain controller.
