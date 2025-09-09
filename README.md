@@ -8,9 +8,11 @@ Project Overview:
 In this lab, I deployed a Windows 10 client system in VirtualBox and connected it to a Windows Server 2019 machine configured as a Domain Controller. The primary goal was to set up and manage Active Directory Domain Services (AD DS) in a simulated enterprise environment.
 
 <img width="720" height="507" alt="image" src="https://github.com/user-attachments/assets/5bb40f65-17d9-4046-8ad4-96bbad026386" />
+</br>
 "Server 2019 VM settings"
 
 <img width="681" height="482" alt="image" src="https://github.com/user-attachments/assets/cb6b5866-ceec-4dc8-8a6d-8eebf36c9e7a" />
+</br>
 "Windows 10 client settings"
 
 
