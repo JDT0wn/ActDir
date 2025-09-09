@@ -11,8 +11,10 @@ In this lab, I deployed a Windows 10 client system in VirtualBox and connected i
 <br>
 "Server 2019 VM settings"
 
+<br>
+
 <img width="681" height="482" alt="image" src="https://github.com/user-attachments/assets/cb6b5866-ceec-4dc8-8a6d-8eebf36c9e7a" />
-</br>
+
 "Windows 10 client settings"
 
 
