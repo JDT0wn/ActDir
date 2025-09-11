@@ -44,8 +44,12 @@ Demonstrated administrative tasks, including:
 Searching for and managing user accounts
 
 Disabling inactive or compromised accounts
+<img width="1019" height="516" alt="image" src="https://github.com/user-attachments/assets/e0cfb608-80c5-43b5-b3db-480e37b48321" />
+
 
 Unlocking user accounts after failed login lockouts
+<img width="411" height="543" alt="image" src="https://github.com/user-attachments/assets/bb236f94-9f14-41b8-90a1-81f6b8ef865a" />
+
 
 Verifying permissions and ensuring proper account access policies
 </p>
