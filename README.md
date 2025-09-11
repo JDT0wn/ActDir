@@ -30,8 +30,12 @@ In this lab, I deployed a Windows 10 client system in VirtualBox and connected i
 Key Tasks and Skills Demonstrated:
 
 Deployed and configured a Windows Server 2019 instance as a domain controller.
+<img width="1025" height="422" alt="image" src="https://github.com/user-attachments/assets/7c415f8b-674d-4ad1-af26-3afc253ba002" />
+
 
 Installed and managed Active Directory, enabling centralized user and computer management.
+<img width="1031" height="354" alt="image" src="https://github.com/user-attachments/assets/dff1fcfc-8b86-42d4-bdc4-1b079c5b82c0" />
+
 
 Used PowerShell scripting to automate the creation of 1,000+ user accounts in bulk, simulating enterprise-scale onboarding.
 
