@@ -38,21 +38,28 @@ Installed and managed Active Directory, enabling centralized user and computer m
 
 
 Used PowerShell scripting to automate the creation of 1,000+ user accounts in bulk, simulating enterprise-scale onboarding.
+<img width="1361" height="703" alt="image" src="https://github.com/user-attachments/assets/37a5b87e-892b-4e63-9097-930a22417385" />
+<br>
+<img width="860" height="544" alt="image" src="https://github.com/user-attachments/assets/d9205643-9290-4e77-8333-fc11b81d250e" />
+
+
 
 Demonstrated administrative tasks, including:
 
 Searching for and managing user accounts
+<img width="1207" height="473" alt="image" src="https://github.com/user-attachments/assets/b2c888c9-5177-4276-983f-ee8a2a46a914" />
 
-Disabling inactive or compromised accounts
+
+Disabling inactive or compromised accounts by selecting account right clicking and selecting option, Unlocking user accounts after failed login lockouts can also be achieved this way
 <img width="1019" height="516" alt="image" src="https://github.com/user-attachments/assets/e0cfb608-80c5-43b5-b3db-480e37b48321" />
 
 
-Unlocking user accounts after failed login lockouts
+
 
 <img width="411" height="543" alt="image" src="https://github.com/user-attachments/assets/bb236f94-9f14-41b8-90a1-81f6b8ef865a" />
 
 
-Verifying permissions and ensuring proper account access policies
+
 </p>
    
 
